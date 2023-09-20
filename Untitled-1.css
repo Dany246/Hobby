@@ -1,0 +1,57 @@
+
+
+body { 
+    
+    
+    background-color: rgb(206, 194, 194) ;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px ;
+    
+    text-align: center;
+
+}
+
+h1 {
+    
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 100px;
+    font-variant: small-caps;
+    border:20px groove;
+    color: rgb(255, 255, 255);
+               
+}
+
+#blue {
+    font-size:  50px;
+    color:rgb(185, 34, 41 );
+    border:10px groove rgb(185, 34, 41 );
+    
+
+}
+
+ol {
+
+    list-style-type: none;
+
+}
+
+#zed {
+    font-size:  50px;
+
+color:rgb(33, 36, 53 );
+border:10px groove rgb(33, 36, 53 );
+
+}
+
+#khazix{
+    color:rgb(158, 70, 192 );
+    font-size:  50px;
+    border:10px groove rgb(158, 70, 192 );
+
+}
+
+#linkes{
+
+    color: crimson;
+}
+
